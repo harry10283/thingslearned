@@ -1,1 +1,2 @@
 # thingslearned
+I learned a lot from this project including more about coding languages because before I used to only know matlab. I encountered some difficulties with this project including such as making code runs and I overcame these challenges by rewatching the videos. I enjoyed making game simulations because I have an interest in game development and this was the first time I created games with code. 
